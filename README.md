@@ -179,7 +179,7 @@ pip install -r requirements.txt
 
 Download the **Sentiment140 Dataset**
 
-Place it inside:
+(https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ```
 data/
