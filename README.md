@@ -294,7 +294,13 @@ Interactive Dashboard
 
 # 📷 Project Preview
 
-> Add screenshots here
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/bd050a9e-71ae-4e7a-b809-08114e4b56d6" />
+<img width="1920" height="3153" alt="screencapture-localhost-8502-2026-07-17-21_48_06" src="https://github.com/user-attachments/assets/f4d87bd0-14bb-4d3e-8886-2d486b4b1283" />
+<img width="1920" height="2590" alt="screencapture-localhost-8502-2026-07-17-21_48_59" src="https://github.com/user-attachments/assets/e44baccf-cbbd-44f3-827d-29cf855e3bd8" />
+<img width="1920" height="2723" alt="screencapture-localhost-8502-2026-07-17-21_49_39" src="https://github.com/user-attachments/assets/f0c620ad-929e-42bd-9870-08967142c335" />
+
+
+
 
 ```
 Dashboard
